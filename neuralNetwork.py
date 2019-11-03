@@ -1,7 +1,6 @@
 # from matplotlib import pyplot as plt
 import math
 import random
-import pickle
 import json
 
 from matrix import Matrix
